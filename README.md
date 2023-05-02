@@ -1,10 +1,5 @@
 ### Hi there 👋
 
- # Readme
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stalkermn&theme=gotham&layout=compact" />
-</p>
-
 
 - 🧪 I mostly write code in Elixir, Erlang and Javascript
 - 💬 Ask me about Erlang/Elixir and distributed and scalable backend apps 
