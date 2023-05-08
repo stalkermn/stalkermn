@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-- 🧪 I mostly write code in Elixir, Erlang and Javascript
+- 🧪 I mostly write code in Elixir, Erlang, Python and JS (node)
 - 💬 Ask me about Erlang/Elixir and distributed and scalable backend apps 
 - 📫 How to reach me: [linkedin](http://linkedin.com/in/valerii-vasylkov/) 
 - ⚡ Fun fact: I'm a car enthusiast and junior drift pilot
-- 🌱 I’m currently learning vercel and typescript
 
 <!--
 **stalkermn/stalkermn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
